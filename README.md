@@ -36,15 +36,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  https://www.walshandsons.com.au/
+  https://www.paradiso.nl/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  Walsh and Sons - Home page  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Paradiso - Home page / programma 
+  <img src="readme-images/homepage.PNG" width="375px" alt="omschrijving van de home pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  Walsh and Sons - Shop
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Paradiso - Archief
+  <img src="readme-images/archief.PNG" width="375px" alt="omschrijving van de archief pagina">
  
 </details>
 
